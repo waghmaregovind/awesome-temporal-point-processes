@@ -135,6 +135,7 @@ Track of developments in Temporal Point Processes (TPPs)
 
 ## TPPs and graphs
 * **TREND**: [TempoRal Event and Node Dynamics for Graph Representation Learning](https://arxiv.org/abs/2203.14303) [WWW-2022] [[Code](https://github.com/WenZhihao666/TREND)]
+* [Mitigating Performance Saturation in Neural Marked Point Processes: Architectures and Loss Functions](https://arxiv.org/abs/2107.03354) [Research track KDD-2021] [[Code](https://github.com/ltz0120/Graph-Convolutional-Hawkes-Processes-GCHP)]
 * [Learning Neural Point Processes with Latent Graphs](https://dl.acm.org/doi/10.1145/3442381.3450135) [WWW-2021] 
 * [Modeling Event Propagation via Graph Biased Temporal Point Process](https://arxiv.org/abs/1908.01623v2) [IEEE Transactions on Neural Networks and Learning Systems-2020]
 * **DyRep**: [Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX) [ICLR-2019] [[Code](https://github.com/Harryi0/dyrep_torch)]
