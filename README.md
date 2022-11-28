@@ -186,7 +186,7 @@ Track of developments in Temporal Point Processes (TPPs)
 
 # Applications
 * Recommendation
-  * **JODIE**: [Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks](https://arxiv.org/abs/1908.01207) [KDD-2019] 
+  * **JODIE**: [Predicting Dynamic Embedding Trajectory in Temporal Interaction Networks](https://arxiv.org/abs/1908.01207) [KDD-2019] [![GitHub Repo stars](https://img.shields.io/github/stars/srijankr/jodie?style=social)](https://github.com/srijankr/jodie/)
   * [Time is of the Essence: a Joint Hierarchical RNN and Point Process Model for Time and Item Predictions](https://arxiv.org/abs/1812.01276) [WSDM-2019] [![GitHub Repo stars](https://img.shields.io/github/stars/BjornarVass/Recsys?style=social)](https://github.com/BjornarVass/Recsys)
 * Human mobility and activity
   * [Recurrent spatio-temporal point process for check-in time prediction](https://dl.acm.org/doi/pdf/10.1145/3269206.3272003) [CIKM-2018] 
