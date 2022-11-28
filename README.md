@@ -87,6 +87,7 @@ Track of developments in Temporal Point Processes (TPPs)
 
 
 ## Reinforcement learning
+* [Bellman Meets Hawkes: Model-Based Reinforcement Learning via Temporal Point Processes](https://arxiv.org/abs/2201.12569) [AAAI-2023][[Code](https://github.com/Event-Driven-rl/Event-Driven-RL)]
 * [Learning Temporal Point Processes via Reinforcement Learning](https://arxiv.org/abs/1811.05016) [NeurIPS-2018] [[Code](https://github.com/sli370/Learning-Temporal-Point-Processes-via-Reinforcement-Learning)]
 * [Deep Reinforcement Learning of Marked Temporal Point Processes](https://arxiv.org/abs/1805.09360) [NeurIPS-2018] [[Code](https://github.com/Networks-Learning/tpprl)]
 
@@ -132,6 +133,7 @@ Track of developments in Temporal Point Processes (TPPs)
 
 ## Intermittent TPPS
 * [Learning Temporal Point Processes with Intermittent Observations](http://proceedings.mlr.press/v130/gupta21a/gupta21a.pdf) [AISTATS-2021] [[Code](https://github.com/data-iitd/imtpp)]
+* [Imputing Missing Events in Continuous-Time Event Streams](https://arxiv.org/abs/1905.05570) [ICML-2019][[Code](https://github.com/hongyuanmei/neural-hawkes-particle-smoothing)]
 
 ## TPPs and graphs
 * **TREND**: [TempoRal Event and Node Dynamics for Graph Representation Learning](https://arxiv.org/abs/2203.14303) [WWW-2022] [[Code](https://github.com/WenZhihao666/TREND)]
@@ -169,6 +171,7 @@ Track of developments in Temporal Point Processes (TPPs)
 * [Learning to Select Exogenous Events for Marked Temporal Point Process](https://proceedings.neurips.cc/paper/2021/hash/032abcd424b4312e7087f434ef1c0094-Abstract.html) [NeurIPS-2021]
 * **NEST**: [Imitation Learning of Neural Spatio-Temporal Point Processes](https://arxiv.org/pdf/1906.05467.pdf) [arXiv-2021] [[Code](https://github.com/meowoodie/Reinforcement-Learning-of-Spatio-Temporal-Point-Processes)]
 * **UNIPoint**: [Universally Approximating Point Processes Intensities](https://arxiv.org/abs/2007.14082) [AAAI-2021]
+* **NDTT**: [Neural Datalog through time: Informed temporal modeling via logical specification](https://arxiv.org/abs/2006.16723) [ICML-2020][[Code](https://github.com/hongyuanmei/neural-datalog-through-time)]
 * [Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information](https://arxiv.org/abs/1906.08952) [KDD-2019]
 
 
