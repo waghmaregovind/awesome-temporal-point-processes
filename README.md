@@ -29,7 +29,6 @@ Track of developments in Temporal Point Processes (TPPs)
 * [Books](#books)
 * [Other awesome-tpp repos](#other-awesome-tpp-repos)
 
-  
 
 # Lecture notes, tutorials and blogs 
 * Lecture notes 
@@ -59,7 +58,7 @@ Track of developments in Temporal Point Processes (TPPs)
 
 
 ## Recurrent history encoders (RNNs)
-* [Fully Neural Network based Model for General Temporal Point Processes](https://arxiv.org/abs/1905.09690) [NeurIPS-2019] [[Code](https://github.com/omitakahiro/NeuralNetworkPointProcess)]
+* [Fully Neural Network based Model for General Temporal Point Processes](https://arxiv.org/abs/1905.09690) [NeurIPS-2019] [![GitHub Repo stars](https://img.shields.io/github/stars/omitakahiro/NeuralNetworkPointProcess?style=social)](https://github.com/omitakahiro/NeuralNetworkPointProcess)
 * [Marked Temporal Dynamics Modeling based on Recurrent Neural Network](https://arxiv.org/abs/1701.03918v1) [PAKDD-2017]
 * [Modeling The Intensity Function Of Point Process Via Recurrent Neural Networks](https://arxiv.org/abs/1705.08982) [AAAI-2017] [[Code](https://github.com/xiaoshuai09/recurrent-point-process)]
 * **RMTPP**: [Recurrent Marked Temporal Point Processes: Embedding Event History to Vector](https://www.kdd.org/kdd2016/papers/files/rpp1081-duA.pdf) [KDD-2016] [[Code-TF](https://github.com/musically-ut/tf_rmtpp)][[Code-PyTorch](https://github.com/woshiyyya/ERPP-RMTPP)]
