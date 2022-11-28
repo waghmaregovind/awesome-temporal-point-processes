@@ -101,7 +101,7 @@ Track of developments in Temporal Point Processes (TPPs)
 ## Long range event forecasting
 * [Neural multi-event forecasting on spatio-temporal point processes using probabilistically enriched transformers](https://arxiv.org/abs/2211.02922) [arXiv-2022] [![GitHub Repo stars](https://img.shields.io/github/stars/negar-erfanian/neural-spatio-temporal-probabilistic-transformers?style=social)](https://github.com/negar-erfanian/neural-spatio-temporal-probabilistic-transformers)
 *  **HYPRO**: [A Hybridly Normalized Probabilistic Model for Long-Horizon Prediction of Event Sequences](https://arxiv.org/abs/2210.01753) [NeurIPS-2022] [![GitHub Repo stars](https://img.shields.io/github/stars/ilampard/hypro_tpp?style=social)](https://github.com/ilampard/hypro_tpp)
-* **DualTPP** [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/abs/2101.02815) [WSDM-2021] [![GitHub Repo stars](https://img.shields.io/github/stars/pratham16cse/DualTPP?style=social)](https://github.com/pratham16cse/DualTPP)
+* **DualTPP**: [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/abs/2101.02815) [WSDM-2021] [![GitHub Repo stars](https://img.shields.io/github/stars/pratham16cse/DualTPP?style=social)](https://github.com/pratham16cse/DualTPP)
 
 
 ## Neural ordinary differential equation (Neural ODE)
