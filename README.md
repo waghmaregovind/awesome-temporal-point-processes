@@ -15,11 +15,10 @@ Track of developments in Temporal Point Processes (TPPs)
   * [Long range event forecasting](#long-range-event-forecasting)
   * [Neural ordinary differential equation (Neural ODE)](#neural-ordinary-differential-equation-neural-ode)
   * [Counterfactual modeling](#counterfactual-modeling)
-  * [Efficient TPPs](#efficient-tpps)
+  * [Normalizing flows and Efficient TPPs](#normalizing-flow-and-efficient-tpps)
   * [Intermittent TPPS](#intermittent-tpps)
   * [TPPs and graphs](#tpps-and-graphs)
   * [Hawkes process](#hawkes-process)
-  * [Normalizing flows](#normalizing-flows)
   * [Adversarial](#adversarial)
   * [Retrieval](#retrieval)
   * [Others](#others)
@@ -125,9 +124,11 @@ Track of developments in Temporal Point Processes (TPPs)
 
 
 
-## Efficient TPPs
+## Normalizing flows and Efficient TPPs
+* **ProActive**: [Self-Attentive Temporal Point Process Flows for Activity Sequences](https://arxiv.org/abs/2206.05291) [KDD-2022] 
 * **TriTPP**: [Fast and Flexible Temporal Point Processes with Triangular Maps](https://arxiv.org/abs/2006.12631v2) [NeurIPS-2020] [![GitHub Repo stars](https://img.shields.io/github/stars/shchur/triangular-tpp?style=social)](https://github.com/shchur/triangular-tpp)
 * **FastPoint**: [Scalable Deep Point Processes](https://ecmlpkdd2019.org/downloads/paper/861.pdf) [ECML KDD-2019]
+* [Point Process Flows](https://arxiv.org/abs/1910.08281) [arXiv-2019]
 
 
 
@@ -154,7 +155,6 @@ Track of developments in Temporal Point Processes (TPPs)
 * [Bayesian Nonparametric Hawkes Processes](https://is.mpg.de/uploads_file/attachment/attachment/462/BNPNIPS2018_paper_14.pdf) [2018] 
 * [Nonlinear Hawkes Processes in Time-Varying System](https://arxiv.org/abs/2106.04844) [arXiv-2021]
 
-## Normalizing flows
 * **ProActive**: [Self-Attentive Temporal Point Process Flows for Activity Sequences](https://arxiv.org/abs/2206.05291) [KDD-2022] 
 
 ## Adversarial
