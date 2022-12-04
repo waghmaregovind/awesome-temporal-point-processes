@@ -65,6 +65,7 @@ Track of developments in Temporal Point Processes (TPPs)
 
 ## Set aggregation history encoders (Transformer)
 * [Transformer Embeddings of Irregularly Spaced Events and Their Participants](https://arxiv.org/abs/2201.00044) [ICLR-2022] [![GitHub Repo stars](https://img.shields.io/github/stars/yangalan123/anhp-andtt?style=social)](https://github.com/yangalan123/anhp-andtt)
+* [Deep Fourier Kernel for Self-Attentive Point Processes](https://arxiv.org/abs/2002.07281) [AISTATS-2021]
 * **SAHP**: [Self-Attentive Hawkes Processes](https://arxiv.org/abs/1907.07561) [ICML-2020] [![GitHub Repo stars](https://img.shields.io/github/stars/QiangAIResearcher/sahp_repo?style=social)](https://github.com/QiangAIResearcher/sahp_repo)
 * **THP**: [Transformer Hawkes Process](https://arxiv.org/abs/2002.09291) [ICML-2020] [![GitHub Repo stars](https://img.shields.io/github/stars/SimiaoZuo/Transformer-Hawkes-Process?style=social)](https://github.com/SimiaoZuo/Transformer-Hawkes-Process)
 
