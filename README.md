@@ -168,6 +168,7 @@ Track of developments in Temporal Point Processes (TPPs)
 
 
 ## Others
+* [Neural Point Process for Learning Spatiotemporal Event Dynamics](https://arxiv.org/abs/2112.06351) [L4DC-2022] [![GitHub Repo stars](https://img.shields.io/github/stars/Rose-STL-Lab/DeepSTPP?style=social)](https://github.com/Rose-STL-Lab/DeepSTPP)
 * [Deep Structural Point Process for Learning Temporal Interaction Networks](https://arxiv.org/abs/2107.03573v1) [ECML PKDD-2021] [![GitHub Repo stars](https://img.shields.io/github/stars/cjx96/DSPP?style=social)](https://github.com/cjx96/DSPP)
 * [Learning to Select Exogenous Events for Marked Temporal Point Process](https://proceedings.neurips.cc/paper/2021/hash/032abcd424b4312e7087f434ef1c0094-Abstract.html) [NeurIPS-2021]
 * **NEST**: [Imitation Learning of Neural Spatio-Temporal Point Processes](https://arxiv.org/pdf/1906.05467.pdf) [arXiv-2021] [![GitHub Repo stars](https://img.shields.io/github/stars/meowoodie/Reinforcement-Learning-of-Spatio-Temporal-Point-Processes?style=social)](https://github.com/meowoodie/Reinforcement-Learning-of-Spatio-Temporal-Point-Processes)
