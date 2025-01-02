@@ -28,19 +28,23 @@ Track of developments in Temporal Point Processes (TPPs)
 * [EasyTPP: Towards Open Benchmarking Temporal Point Processes](https://arxiv.org/abs/2307.08097) [ICLR-2024] [![GitHub Repo stars](https://img.shields.io/github/stars/ant-research/EasyTemporalPointProcess?style=social)](https://github.com/ant-research/EasyTemporalPointProcess) 
 * [Learning Multivariate Temporal Point Processes via the Time-Change Theorem](https://proceedings.mlr.press/v238/augusto-zagatti24a/augusto-zagatti24a.pdf) [AISTATS-2024] [![GitHub Repo stars](https://img.shields.io/github/stars/NUS-IDS/multi-ttpp?style=social)](https://github.com/NUS-IDS/multi-ttpp)
 * [A Variational Autoencoder for Neural Temporal Point Processes with Dynamic Latent Graphs](https://arxiv.org/abs/2312.16083) [AAAI-2024] [![GitHub Repo stars](https://img.shields.io/github/stars/sikunyang/VAETPP?style=social)](https://github.com/sikunyang/VAETPP)
+* [Interacting Diffusion Processes for Event Sequence Forecasting](https://arxiv.org/abs/2310.17800) [ICML-2024] [![GitHub Repo stars](https://img.shields.io/github/stars/networkslab/cdiff?style=social)](https://github.com/networkslab/cdiff)
+* [Neural Jump-Diffusion Temporal Point Processes](https://openreview.net/pdf?id=d1P6GtRzuV) [ICML-2024] [![GitHub Repo stars](https://img.shields.io/github/stars/Zh-Shuai/NJDTPP?style=social)](https://github.com/Zh-Shuai/NJDTPP)
 
 ## 2023
 * [Bellman Meets Hawkes: Model-Based Reinforcement Learning via Temporal Point Processes](https://arxiv.org/abs/2201.12569) [AAAI-2023] [![GitHub Repo stars](https://img.shields.io/github/stars/WilliamBUG/Event_driven_rl?style=social)](https://github.com/WilliamBUG/Event_driven_rl)
 * [Add and thin: Diffusion for temporal point processes](https://arxiv.org/abs/2311.01139) [NeurIPS-2023] [![GitHub Repo stars](https://img.shields.io/github/stars/davecasp/add-thin?style=social)](https://github.com/davecasp/add-thin)
 * [Sparse Transformer Hawkes Process for Long Event Sequences](https://link.springer.com/chapter/10.1007/978-3-031-43424-2_11) [ECML-PKDD-2023]
+* [ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling](https://arxiv.org/abs/2402.10635) [NeurIPS-2023] [![GitHub Repo stars](https://img.shields.io/github/stars/microsoft/SeqML?style=social)](https://github.com/microsoft/SeqML)
+* [Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes](https://arxiv.org/abs/2310.05485) [NeurIPS-2023]
+* [Prompt-augmented Temporal Point Process for Streaming Event Sequence](https://arxiv.org/abs/2310.04993) [NeurIPS-2023] [![GitHub Repo stars](https://img.shields.io/github/stars/yanyanSann/PromptTPP?style=social)](https://github.com/yanyanSann/PromptTPP)
 * [Language Models Can Improve Event Prediction by Few-Shot Abductive Reasoning](https://arxiv.org/abs/2305.16646) [NeurIPS-2023] [![GitHub Repo stars](https://img.shields.io/github/stars/iLampard/lamp?style=social)](https://github.com/iLampard/lamp)
 * [SMURF-THP: Score Matching-based UnceRtainty quantiFication for Transformer Hawkes Process](https://arxiv.org/abs/2310.16336) [ICML-2023] [![GitHub Repo stars](https://img.shields.io/github/stars/zichongli5/SMURF-THP?style=social)](https://github.com/zichongli5/SMURF-THP)
 * [C-NTPP: Learning Cluster-Aware Neural Temporal Point Process](https://ojs.aaai.org/index.php/AAAI/article/view/25897/25669) [AAAI-2023]
 * [Meta Temporal Point Processes](https://arxiv.org/abs/2301.12023) [ICLR-2023] 
-* [Integration-free Training for Spatio-temporal Multimodal Covariate Deep Kernel Point Processes](https://arxiv.org/abs/2310.05485) [NeurIPS-2023]
-* [Prompt-augmented Temporal Point Process for Streaming Event Sequence](https://arxiv.org/abs/2310.04993) [NeurIPS-2023] [![GitHub Repo stars](https://img.shields.io/github/stars/yanyanSann/PromptTPP?style=social)](https://github.com/yanyanSann/PromptTPP)
 * [Probabilistic Querying of Continuous-Time Event Sequences](https://arxiv.org/abs/2211.08499) [AISTATS-2023] [![GitHub Repo stars](https://img.shields.io/github/stars/ajboyd2/point_process_queries?style=social)](https://github.com/ajboyd2/point_process_queries)
 * [Structural Hawkes Processes for Learning Causal Structure from Discrete-Time Event Sequences](https://arxiv.org/abs/2305.05986) [IJCAI-2023] [![GitHub Repo stars](https://img.shields.io/github/stars/dmirlab-group/shp?style=social)](https://github.com/dmirlab-group/shp)
+* [Spatio-temporal Diffusion Point Processes](https://arxiv.org/abs/2305.12403) [KDD-2023] [![GitHub Repo stars](https://img.shields.io/github/stars/tsinghua-fib-lab/Spatio-temporal-Diffusion-Point-Processes?style=social)](https://github.com/tsinghua-fib-lab/Spatio-temporal-Diffusion-Point-Processes)
 
 ## 2022
 * [Exploring Generative Neural Temporal Point Process](https://arxiv.org/abs/2208.01874) [TMLR-2022] [![GitHub Repo stars](https://img.shields.io/github/stars/bird-tao/gntpp?style=social)](https://github.com/bird-tao/gntpp) 
