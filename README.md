@@ -24,6 +24,9 @@ Track of developments in Temporal Point Processes (TPPs)
 
 # Papers
 
+## 2025
+* [Hawkes Point Process-enhanced Dynamic Graph Neural Network](https://arxiv.org/abs/1812.01276) [WSDM-2025] 
+
 ## 2024
 * [EasyTPP: Towards Open Benchmarking Temporal Point Processes](https://arxiv.org/abs/2307.08097) [ICLR-2024] [![GitHub Repo stars](https://img.shields.io/github/stars/ant-research/EasyTemporalPointProcess?style=social)](https://github.com/ant-research/EasyTemporalPointProcess) 
 * [Learning Multivariate Temporal Point Processes via the Time-Change Theorem](https://proceedings.mlr.press/v238/augusto-zagatti24a/augusto-zagatti24a.pdf) [AISTATS-2024] [![GitHub Repo stars](https://img.shields.io/github/stars/NUS-IDS/multi-ttpp?style=social)](https://github.com/NUS-IDS/multi-ttpp)
